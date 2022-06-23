@@ -18,8 +18,8 @@
 
 ### Links
 
-- Solution URL: [Solution URL here](https://github.com/Manish-d-art/social-proof-section-master.git)
-- Live Site URL: [Live site URL here](https://social-spoof-component.netlify.app)
+- Solution URL: [Solution URL here](https://github.com/Manish-d-art/First_Bootstrap_Project.git)
+- Live Site URL: [Live site URL here](https://bootstrap-project-d-art.netlify.app)
 
 
 
